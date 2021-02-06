@@ -1,6 +1,6 @@
 {
   "name": "@sitearcade/is-env",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Nifty util that tells you what env you're in.",
   "license": "MIT",
   "homepage": "https://www.sitearcade.com",
